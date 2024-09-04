@@ -4,7 +4,7 @@ import random
 
 class CustomPerceptron:
 
-
+ 
     def __init__(self, epochs=10, learning_rate=1):
 
         self.epochs        = epochs
